@@ -26,5 +26,4 @@ function Heading(props) {
   );
 }
 
-// <img src="" /> (attribute)
-// <Heading title="" />  (properties = props)
+// https://github.com/gliese-backup/beebom-component

@@ -12,6 +12,7 @@
   - A custom html element that we make by combining native html elements
   - Must follow `PascalCase` add a trailing slash in self closing tags (e.g. `<img />`)
   - A function that returns a JSX element is a Component
+  - Props is how we pass data to a component
 - JSX?
   - It is a file extension `.jsx`
   - It combines JS and HTML together
